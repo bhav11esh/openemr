@@ -19,13 +19,13 @@ Extensive documentation and forums can be found on the [OpenEMR website](https:/
 
 ### OpenEMR Demo
 
-|Username|	Password	   | Description|
-|----|----|
-|admin	  |  pass	        |Administrator|
-|physician	|physician	   | Physician (more access than clinician)|
-|clinician	|clinician	  |  Clinician (less access than physician)|
-|accountant	|accountant	 |   Accountant|
-|receptionist|receptionist	|Front desk receptionist|
+| Username |	Password	   | Description|
+| ---- | ---- |
+| admin	  |  pass	        | Administrator|
+| physician	| physician	   | Physician (more access than clinician)|
+| clinician	| clinician	  |  Clinician (less access than physician)|
+| accountant	| accountant	 |   Accountant|
+| receptionist | receptionist	|Front desk receptionist|
 
 
 # Medical Data for Machine Learning
