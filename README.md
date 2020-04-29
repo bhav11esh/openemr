@@ -18,7 +18,7 @@ Community and Professional support can be found [here](https://open-emr.org/wiki
 Extensive documentation and forums can be found on the [OpenEMR website](https://open-emr.org).
 
 ### OpenEMR Demo
-Credentials
+
 |Username|	Password	   | Description|
 |----|----|
 |admin	  |  pass	        |Administrator|
