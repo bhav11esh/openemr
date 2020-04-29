@@ -1,5 +1,3 @@
-[![Build Status](https://travis-ci.org/openemr/openemr.svg?branch=master)](https://travis-ci.org/openemr/openemr)
-[![Backers on Open Collective](https://opencollective.com/openemr/backers/badge.svg)](#backers) [![Sponsors on Open Collective](https://opencollective.com/openemr/sponsors/badge.svg)](#sponsors)
 
 ### Background
 >This project is to explore the Med Tech Space. Technologies such as blockchain for data decentralisation, ML/AI will be there in a next decade with just few processing computing resources enabling MedTech companies for RnD via data. This project is to enable the archietecture for Indian Medical data. This project is to showcase how the data driven healthcare: federated learning framework for securely accessing and meta-analyzing any biomedical data without sharing individual information.
